@@ -6,3 +6,4 @@
 |numpy_02|Numpy基础结构|课时10|
 |numpy_03|Numpy矩阵基础|课时11|
 |numpy_04|Numpy常用函数|课时12|
+|numpy_05|矩阵常用操作|课时13|
