@@ -1,6 +1,7 @@
 ### notebook_idata_lesson01
 
-|文件夹|简介|
-|---|---|
-|numpy|numpy实验|
-|demo|例子程序|
+|文件夹|简介|课时|
+|---|---|---|
+|numpy|numpy实验|课时9-14|
+|pandas|pandas实验||
+|demo|例子程序||
