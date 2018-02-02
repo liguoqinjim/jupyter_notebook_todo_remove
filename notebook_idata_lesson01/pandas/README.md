@@ -7,3 +7,4 @@
 |pandas_03|Pandas数据预处理实例|课时17|
 |pandas_04|Pandas常用预处理方法|课时18|
 |pandas_05|Pandas自定义函数|课时19|
+|pandas_06|Series结构|课时20|
