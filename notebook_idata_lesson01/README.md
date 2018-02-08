@@ -4,4 +4,5 @@
 |---|---|---|
 |numpy|numpy实验|课时9-14|
 |pandas|pandas实验|课时15-20|
+|matplotlib|matplotlib实验|课时21-25|
 |demo|例子程序||
