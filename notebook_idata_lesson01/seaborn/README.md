@@ -11,3 +11,4 @@
 |seaborn_07|回归分析图|课时32|
 |seaborn_08|多变量分析绘图|课时33|
 |seaborn_09|分类属性绘图|课时34|
+|seaborn_10|Facetgrid使用方法|课时35|
