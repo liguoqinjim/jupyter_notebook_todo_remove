@@ -13,3 +13,4 @@
 |seaborn_09|分类属性绘图|课时34|
 |seaborn_10|Facetgrid使用方法|课时35|
 |seaborn_11|Facetgrid绘制多变量|课时36|
+|seaborn_12|热度图绘制|课时37|
