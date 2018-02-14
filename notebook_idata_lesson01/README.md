@@ -8,4 +8,5 @@
 |seaborn|seaborn实验|课时26-37|
 |KNN|K近邻算法实战|课时38-42|
 |Logistic-Regression|Python实现逻辑回归与梯度下降策略|课时53-56|
+|CreditCard|交易数据异常检测|课时57-66|
 |demo|例子程序||
