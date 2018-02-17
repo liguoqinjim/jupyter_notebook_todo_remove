@@ -11,4 +11,5 @@
 |CreditCard|交易数据异常检测|课时57-66|
 |Decision-Tree|使用sklearn构造决策树模型|课时72-75|
 |Titanic|泰坦尼克获救预测|课时80-84|
+|Bayes-SpellCheck|贝叶斯实现拼写检查器|课时89|
 |demo|例子程序||
