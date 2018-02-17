@@ -10,4 +10,5 @@
 |Logistic-Regression|Python实现逻辑回归与梯度下降策略|课时53-56|
 |CreditCard|交易数据异常检测|课时57-66|
 |Decision-Tree|使用sklearn构造决策树模型|课时72-75|
+|Titanic|泰坦尼克获救预测|课时80-84|
 |demo|例子程序||
