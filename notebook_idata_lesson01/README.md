@@ -14,4 +14,5 @@
 |Bayes-SpellCheck|贝叶斯实现拼写检查器|课时85-89|
 |Bayes-News|新闻分类任务|课时90-95|
 |SVM|支持向量机|课时104-105|
+|KMEANS|聚类算法-Kmeans|课时106-109|
 |demo|例子程序||
