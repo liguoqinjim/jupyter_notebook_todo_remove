@@ -18,4 +18,5 @@
 |KMEANS-DBSCAN|聚类算法实例|课时113-114|
 |PCA|降维算法-PCA主成分分析|课时115-118|
 |Neural-Networks|神经网络|课时119-133|
+|Xgboost|Xgboost集成算法|课时134-140|
 |demo|例子程序||
