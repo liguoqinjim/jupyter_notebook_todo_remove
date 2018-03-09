@@ -19,4 +19,5 @@
 |PCA|降维算法-PCA主成分分析|课时115-118|
 |Neural-Networks|神经网络|课时119-133|
 |Xgboost|Xgboost集成算法|课时134-140|
+|Gensim|使用Gensim库构造中文维基百科数据词向量模型|课时151-154|
 |demo|例子程序||
