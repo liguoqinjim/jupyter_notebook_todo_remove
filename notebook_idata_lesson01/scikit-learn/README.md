@@ -4,3 +4,4 @@
 |---|---|---|
 |scikit-learn01|线性回归|课时155-156|
 |scikit-learn02|逻辑回归|课时157-158|
+|scikit-learn03|roc|课时159|
