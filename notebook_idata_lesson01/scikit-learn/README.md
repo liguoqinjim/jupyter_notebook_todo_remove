@@ -6,3 +6,4 @@
 |scikit-learn02|逻辑回归|课时157-158|
 |scikit-learn03|roc|课时159|
 |scikit-learn04|交叉验证|课时160|
+|scikit-learn05|多类别问题|课时161|
