@@ -22,4 +22,5 @@
 |Gensim|使用Gensim库构造中文维基百科数据词向量模型|课时151-154|
 |scikit-learn|scikit-learn模型建立与评估|课时155-161|
 |kobe|Python库分析科比生涯数据|课时162-165|
+|Date-Time|Python时间序列分析|课时166-177|
 |demo|例子程序||
