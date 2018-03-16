@@ -5,3 +5,4 @@
 |DateTime|Pandas生成时间序列|课时167|
 |Resampling|Pandas数据重采样|课时168|
 |MovingWindow|Pandas滑动窗口|课时169|
+|Diff|数据平稳性和差分法|课时170|
