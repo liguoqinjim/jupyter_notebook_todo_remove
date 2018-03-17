@@ -9,3 +9,4 @@
 |ARIMA|ARIMA模型|课时171-174|
 |stock|股票预测案例|课时175|
 |tsfresh|使用tsfresh库进行分类|课时176|
+|EDA|维基百科词条EDA|课时177|
