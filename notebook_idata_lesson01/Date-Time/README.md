@@ -7,3 +7,4 @@
 |MovingWindow|Pandas滑动窗口|课时169|
 |Diff|数据平稳性和差分法|课时170|
 |ARIMA|ARIMA模型|课时171-174|
+|stock|股票预测案例|课时175|
