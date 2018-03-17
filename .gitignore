@@ -103,3 +103,4 @@ ENV/
 ~*.xlsx
 notebook_idata_lesson01/demo/逻辑回归-信用卡欺诈检测/creditcard.csv
 notebook_idata_lesson01/CreditCard/creditcard.csv
+notebook_idata_lesson01/Date-Time/data/train_1.csv
