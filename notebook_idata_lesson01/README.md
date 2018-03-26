@@ -23,4 +23,5 @@
 |scikit-learn|scikit-learn模型建立与评估|课时155-161|
 |kobe|Python库分析科比生涯数据|课时162-165|
 |Date-Time|Python时间序列分析|课时166-177|
+|LoanProject|贷款申请最大化利润|课时178-181|
 |demo|例子程序||
