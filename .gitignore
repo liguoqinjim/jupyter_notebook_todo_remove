@@ -104,3 +104,7 @@ ENV/
 notebook_idata_lesson01/demo/逻辑回归-信用卡欺诈检测/creditcard.csv
 notebook_idata_lesson01/CreditCard/creditcard.csv
 notebook_idata_lesson01/Date-Time/data/train_1.csv
+notebook_idata_lesson01/LoanProject/LoanStats3a.csv
+notebook_idata_lesson01/LoanProject/cleaned_loans2007.csv
+notebook_idata_lesson01/LoanProject/loans_2007.csv
+notebook_idata_lesson01/LoanProject/filtered_loans_2007.csv
